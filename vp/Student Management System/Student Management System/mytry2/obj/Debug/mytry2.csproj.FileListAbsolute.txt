@@ -1,0 +1,22 @@
+C:\Users\malik\source\repos\mytry2\mytry2\bin\Debug\mytry2.exe.config
+C:\Users\malik\source\repos\mytry2\mytry2\bin\Debug\mytry2.exe
+C:\Users\malik\source\repos\mytry2\mytry2\bin\Debug\mytry2.pdb
+C:\Users\malik\source\repos\mytry2\mytry2\obj\Debug\mytry2.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\mytry2\mytry2\obj\Debug\mytry2.Form1.resources
+C:\Users\malik\source\repos\mytry2\mytry2\obj\Debug\mytry2.Properties.Resources.resources
+C:\Users\malik\source\repos\mytry2\mytry2\obj\Debug\mytry2.csproj.GenerateResource.cache
+C:\Users\malik\source\repos\mytry2\mytry2\obj\Debug\mytry2.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\mytry2\mytry2\obj\Debug\mytry2.exe
+C:\Users\malik\source\repos\mytry2\mytry2\obj\Debug\mytry2.pdb
+C:\Users\malik\source\repos\Student Management System\mytry2\bin\Debug\mytry2.exe.config
+C:\Users\malik\source\repos\Student Management System\mytry2\bin\Debug\mytry2.exe
+C:\Users\malik\source\repos\Student Management System\mytry2\bin\Debug\mytry2.pdb
+C:\Users\malik\source\repos\Student Management System\mytry2\obj\Debug\mytry2.csproj.AssemblyReference.cache
+C:\Users\malik\source\repos\Student Management System\mytry2\obj\Debug\mytry2.Form1.resources
+C:\Users\malik\source\repos\Student Management System\mytry2\obj\Debug\mytry2.Properties.Resources.resources
+C:\Users\malik\source\repos\Student Management System\mytry2\obj\Debug\mytry2.csproj.GenerateResource.cache
+C:\Users\malik\source\repos\Student Management System\mytry2\obj\Debug\mytry2.csproj.CoreCompileInputs.cache
+C:\Users\malik\source\repos\Student Management System\mytry2\obj\Debug\mytry2.exe
+C:\Users\malik\source\repos\Student Management System\mytry2\obj\Debug\mytry2.pdb
+C:\Users\malik\source\repos\Student Management System\mytry2\obj\Debug\mytry2.login.resources
+C:\Users\malik\source\repos\Student Management System\mytry2\obj\Debug\mytry2.studenthome.resources

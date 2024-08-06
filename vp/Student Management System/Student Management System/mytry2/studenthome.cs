@@ -1,0 +1,25 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace mytry2
+{
+    public partial class studenthome : Form
+    {
+        public studenthome()
+        {
+            InitializeComponent();
+        }
+
+        private void studenthome_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
